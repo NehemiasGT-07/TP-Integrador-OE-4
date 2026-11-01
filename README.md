@@ -17,3 +17,7 @@ Este repositorio aloja la documentación técnica y los artefactos correspondien
 
 ## Declaración de Transparencia en el Uso de IA
 Conforme a los lineamientos de la cátedra, se declara el uso ético y crítico de asistentes de Inteligencia Artificial Generativa como apoyo para la estructuración de la documentación técnica, reservando la autoría, validación conceptual y corrección humana al equipo de trabajo
+
+
+## Estado del Proyecto
+* En desarrollo activo - Entrega N.º 4 completada.
